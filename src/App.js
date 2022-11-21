@@ -5,9 +5,7 @@ function App() {
   return (
     <div className="App">
      <h1>GitHub Pages</h1>
-     <input type="text" placeholder="Email"/><br/>
-     <input type="password" placeholder="Password"/><br/>
-     <button>LogIn</button>
+     <h2>App Deployed</h2>
     </div>
   );
 }
